@@ -12,7 +12,7 @@
     </head>
     <body>
         <nav class = "navbar navbar-light navbar-expand-md fixed-top bg-light bg-colorNav">
-            <div class = "container-fluid">
+            <div class = "container">
             <a href = "#" class= "navbar-brand"><img src="https://1000marcas.net/wp-content/uploads/2019/11/Logo-Nike-1.png" alt="nike" style="width:50px"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarT" aria-controls="navbarT" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
